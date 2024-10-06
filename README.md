@@ -34,7 +34,7 @@ cd blur_faces
 
 3. Install the required libraries:
 ```
-pip install matplotlib opencv-python
+pip install -r requirements.txt
 ```
 
 

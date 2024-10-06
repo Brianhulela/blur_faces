@@ -1,6 +1,6 @@
 # Face Detection and Blurring with OpenCV
 
-[Cover Image](https://github.com/Brianhulela/blur_faces/blob/master/blur_faces_cover.drawio.png)
+![Cover Image](https://github.com/Brianhulela/blur_faces/blob/master/blur_faces_cover.drawio.png)
 
 This project demonstrates how to automatically detect faces in an image and apply a Gaussian blur to protect privacy using Python and OpenCV.
 
